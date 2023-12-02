@@ -1,4 +1,4 @@
-# Dicio assistant
+# Do-all voice assistant
 
 Dicio is a *free and open source* **voice assistant** running on Android. It supports many different **skills** and input/output methods, and it provides both **speech** and **graphical** feedback to a question. It uses [Vosk](https://github.com/alphacep/vosk-api/) for *speech to text*. It has multilanguage support, and is currently available in these languages: English, French, German, Greek, Italian, Russian and Spanish. Open to contributions :-D
 
@@ -42,12 +42,12 @@ When contributing keep in mind that other people may have **needs** and **views 
 
 ### IRC/Matrix room for communication
 
-- The **#dicio** channel on *Libera Chat* (`ircs://irc.libera.chat:6697/dicio`) is available to get in touch with the developers. [Click here for webchat](https://web.libera.chat/#dicio)!
+- The **#do-all** channel on *Libera Chat* (`ircs://irc.libera.chat:6697/dicio`) is available to get in touch with the developers. [Click here for webchat](https://web.libera.chat/#dicio)!
 - You can also use a *Matrix* account to join the Dicio channel at [#dicio:libera.chat](https://matrix.to/#/#dicio:libera.chat). Some convenient clients, available both for phone and desktop, are listed at that link.
 
 ### Translating
 
-If you want to translate Dicio to a new language you have to follow these **steps**:
+If you want to translate Dicio into a new language you have to follow these **steps**:
 <ul><li>
   Translate the <b>strings used inside the app</b> via <a href="https://hosted.weblate.org/engage/dicio-android/">Weblate</a>. If your language isn't already there, add it with <a href="https://hosted.weblate.org/new-lang/dicio-android/strings/">tool -> start new translation</a>.
   </br>
