@@ -1,6 +1,15 @@
 # Do-all voice assistant
 
-Dicio is a *free and open source* **voice assistant** running on Android. It supports many different **skills** and input/output methods, and it provides both **speech** and **graphical** feedback to a question. It uses [Vosk](https://github.com/alphacep/vosk-api/) for *speech to text*. It has multilanguage support, and is currently available in these languages: English, French, German, Greek, Italian, Russian and Spanish. Open to contributions :-D
+Dicio is a *free and open-source* **voice assistant** running on Android. It supports many different **skills** and input/output methods, and it provides both **speech** and **graphical** feedback to a question. It uses [Vosk](https://github.com/alphacep/vosk-api/) for *speech to text*. It has multilanguage support, and is currently available in these languages: English, French, German, Greek, Italian, Russian, and Spanish. Open to contributions :-D
+
+Additional Understanding information about the application:
+A Voice assistance for Android Mobile users, which the app can perform voice command-based tasks.
+
+Do-all Voice Assistance is an Android OS-based application that is going to be developed to control mobile device services through this app. Services like skills that are going to operate based on voice commands given by the user, the skills said to open any other application from this app and can access other operations from this do-all application. The application acts as a user interaction platform and the user can operate the device services from this application via voice commands.
+
+Do-all is a free and open-source voice assistant application running on Android devices. It supports many different skills and input/output methods, and it provides both speech and graphical feedback to a question. It uses Vosk for speech-to-text. It has multilanguage support such as English, French, German, Greek, Italian, Russian, and Spanish, etc. The Purpose of choosing this idea is to gain knowledgeable experience in Android development with the implementation of speech-to-text recognition concepts for user convenience.
+
+The application is based on Android development, the overall application will include XML for User Interface, Java to provide the functioning of effective interface and connectivity, vosk offline speech-to-text API to assign features of voice recognition input and feedback output to operate skills in the application. The application is implemented in Android Studio Development Tool of version Chipmunk | 2021.2.1 With AVD (Android Virtual Device) of minimum SDK android version 7.0 Nougat and Target SDK android version 11.0. or Mobile device.
 
 <p align="center">
     <a href="https://f-droid.org/packages/org.dicio.dicio_android">
